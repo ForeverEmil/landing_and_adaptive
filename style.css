@@ -106,7 +106,7 @@ ul {
 .banner__button:hover::before {
 	transform: rotate(0.5turn);
 	background: var(--main-color);
-	left: 150px;
+	left: 100%;
 }
 
 .banner__button:hover {
